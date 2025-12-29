@@ -68,6 +68,9 @@
         <mxCell id="TwYgzNGJ0dTi_DjFEo6M-20" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="进程阻塞于recvfrom的调用" vertex="1">
           <mxGeometry height="90" width="30" x="150" y="265" as="geometry" />
         </mxCell>
+        <mxCell id="Ew2ZbmRge7XXT7hwd8PQ-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="阻塞IO/" vertex="1">
+          <mxGeometry height="30" width="60" x="260" y="460" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
